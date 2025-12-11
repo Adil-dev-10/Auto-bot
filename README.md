@@ -1,2 +1,10 @@
-# Auto-bot
-"adil-dev: A strictly typed React + Vite application leveraging Framer Motion for UI interactions and React Router for seamless navigation. Includes custom mobile layouts and video integration."  You can copy and paste any of these into your GitHub repository settings.
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
